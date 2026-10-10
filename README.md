@@ -8,3 +8,5 @@ Windows系统 + Wsl Ubuntu,已安装git gcc python3编译工具
 
 #运行方式
 VS code 或 Pycharm 或 Wsl Ubuntu终端
+
+用WSL完成任务好麻烦o(TヘTo)
