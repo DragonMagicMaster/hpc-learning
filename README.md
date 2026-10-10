@@ -7,4 +7,4 @@ ASC纳新
 Windows系统 + Wsl Ubuntu,已安装git gcc python3编译工具
 
 #运行方式
-VS code 或 Pycharm
+VS code 或 Pycharm 或 Wsl Ubuntu终端
